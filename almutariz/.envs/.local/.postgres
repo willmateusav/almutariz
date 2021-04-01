@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=almutariz
+POSTGRES_USER=ejtEJxwIqTSXDEULaKcsspWuquNgXriz
+POSTGRES_PASSWORD=ym9jBPq4e1m6M7l2ClfCow6nnfAp8OO1nafibifpEyffO9qrbJ0Vp9j7I0Ec4WGO
