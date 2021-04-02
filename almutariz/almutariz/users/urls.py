@@ -7,7 +7,11 @@ app_name = "users"
 urlpatterns = [
     path(
         route='',
-        view=users_views.IndexView.as_view(),
+        view=users_views.IndexView,
         name='index'
+    ), path(
+        route='images/',
+        view=users_views.ImagesView,
+        name='blog-grid'
     ),
 ]
